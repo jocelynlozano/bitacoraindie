@@ -9,6 +9,8 @@ body {
 
 .colortextblanco {
 	color: #B02F04;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 4em;
 }
 
 .clasehr {
@@ -31,16 +33,18 @@ body {
 }
 
 .bolitamayor {
-    width: 111px;
+    width: 128px;
     color: white;
     text-align: center;
     background-color: #B43104;
     border-radius: 70px;
     margin-left: 45%;
     cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
 }
 
-.cajamayor {
+.cajaMayor {
     text-align: center;
     font-size: 40px;
     position: relative;
@@ -49,4 +53,25 @@ body {
 
 .pointer {
     cursor: pointer;
+}
+
+.edictexta {
+    position: relative;
+    left: 499px;
+}
+
+.muevete {
+    position: relative;
+    left: 787px;
+    bottom: 43px;
+    background-image: url(../img/images.jpg); 
+    padding: 0.5%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#tasks-container {
+    position: relative;
+    left: 39%;
+    font-family: 'Satisfy', cursive;
+    font-size: 3em;
 }
