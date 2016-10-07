@@ -1,0 +1,52 @@
+*; html {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-image: url(../img/images.jpg) !important;
+}
+
+.colortextblanco {
+	color: #B02F04;
+}
+
+.clasehr {
+    height: 1px;
+    border: 0;
+    background-color: #EA4E3A !important;
+    margin-top: -7px !important;
+}
+
+.perfil {
+	width: 3%;
+    margin-top: -5%;
+    margin-left: 81%;
+}
+
+.portada {
+	margin-top: -1.5%;
+    margin-left: 13.5%;
+    width: 70.5%;
+}
+
+.bolitamayor {
+    width: 111px;
+    color: white;
+    text-align: center;
+    background-color: #B43104;
+    border-radius: 70px;
+    margin-left: 45%;
+    cursor: pointer;
+}
+
+.cajamayor {
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 28px;
+}
+
+.pointer {
+    cursor: pointer;
+}
